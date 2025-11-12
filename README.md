@@ -373,7 +373,7 @@ Para preguntas técnicas, reportar bugs o solicitar funcionalidades:
 
 ## Licencia
 
-Este proyecto es propiedad del titular de la cuenta Manus y está sujeto a los términos de servicio de la plataforma.
+Este proyecto es propiedad del autor: afelipfo
 
 ---
 
